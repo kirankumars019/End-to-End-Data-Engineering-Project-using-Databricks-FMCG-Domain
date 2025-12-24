@@ -1,0 +1,2 @@
+# End-to-End-Data-Engineering-Project-using-Databricks-FMCG-Domain
+This project demonstrates an end-to-end data engineering pipeline using Databricks Free Edition. It covers data ingestion, cleaning, transformation with Apache Spark, and storage using Delta Lake. The medallion architecture (Bronze, Silver, Gold) is used, with transformations implemented in PySpark and SQL for scalability and reliability.
